@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/kqZs8Wd/header.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jotafer11&label=Profile%20views&color=0e75b6&style=flat" alt="jotafer11" /> </p>
 
 - 🔭 I’m currently working on **wordpress-woocommerce-theme**
